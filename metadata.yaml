@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39473'
     url: http://www.gutenberg.org/2009/agents/39473
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38446#Outlines-of-a-Philosophy-of-Religion-based-on-Psychology-and-History
 gutenberg_issued: '2011-12-30'
 gutenberg_type: Text
 identifiers:
